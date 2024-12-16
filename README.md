@@ -7,12 +7,11 @@ En dicho proyecto, veremos las rutas utilizadas, las cuales fueron establecidas 
 
 1. Ruta Post - Creación de un producto (http://localhost:8080/api/products)
    - Formato del producto:
-   {
-    "title": "Example-title",
-    "description": "Example-Description",
-    "code": "Example-code",
-    "price": 1,
-    "status": true,
+   {                                                                                                                                                                               
+    "title": "Example-title",                                                                                                                                                              
+    "description": "Example-Description",                                                                                                                                                      "code": "Example-code",                                                                                                                                                        
+    "price": 1,                                                                                                                                                        
+    "status": true,                                                                                                                                                        
     "stock": 1,                                                                                                                                                                 
     "category": "Example-Category"                                                                                                                                                         
   }
