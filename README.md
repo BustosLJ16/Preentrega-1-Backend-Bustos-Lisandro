@@ -22,15 +22,14 @@ En dicho proyecto, veremos las rutas utilizadas, las cuales fueron establecidas 
      - products?limit=x - Lista de productos con un limite de visualización de los mismos.
   
 3. Ruta Put - Actualización de un producto según su ID (http://localhost:8080/api/products/:pid)
-   - Formato del producto:
-   {
-    "title": "Example-title",
-    "description": "Example-Description",
-    "code": "Example-code",
-    "price": 1,
-    "status": true,
-    "stock": 1,
-    "category": "Example-Category" 
+   - Formato del producto:                                                                                                                                                        
+    {                                                                                                                                                                               
+    "title": "Example-title",                                                                                                                                                              
+    "description": "Example-Description",                                                                                                                                                      "code": "Example-code",                                                                                                                                                        
+    "price": 1,                                                                                                                                                        
+    "status": true,                                                                                                                                                        
+    "stock": 1,                                                                                                                                                                 
+    "category": "Example-Category"                                                                                                                                                         
   }
 
 4. Ruta Delete -  Eliminación de un producto seleccionado (http://localhost:8080/api/products/:pid)
