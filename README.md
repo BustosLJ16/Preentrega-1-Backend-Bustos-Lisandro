@@ -49,5 +49,5 @@ En dicho proyecto, veremos las rutas utilizadas, las cuales fueron establecidas 
    - cart/carts - Lista general de los Carritos y sus Productos.
    - cart/:CID - Lista de los productos dentro de un Carrito determinado.
   
-4. Ruta Delete - Eliminación de un Carrito Seleccionado (http://localhost:8080/api/cart/:CID)
+4. Ruta Delete - Eliminación de un Carrito Seleccionado (http://localhost:8080/api/cart/:cid)
    - cart/:cid - Determina el Carrito a Eliminar por su respectivo ID en la lista de Carritos generados.
