@@ -2,7 +2,7 @@
 
 ## Introducción:
 Este es un proyecto fue realizado bajo la cursada de Programación Backend I: Desarrollo Avanzado de Backend en CoderHouse.
-En mencionado proyecto, se utiliza la ruta de Localhost para montar el proyecto, este bajo el puerto **8080**, junto al programa de Postman como el control de flujos de los datos.
+En mencionado proyecto, se utiliza la ruta de Localhost para montar el proyecto, este bajo el puerto **8080**, junto al programa de Postman como el control de flujos de datos.
 ## **Rutas de los Productos**:
 
 1. Ruta Post - Creación de un producto (http://localhost:8080/api/products)
