@@ -13,8 +13,8 @@ En dicho proyecto, veremos las rutas utilizadas, las cuales fueron establecidas 
     "code": "Example-code",
     "price": 1,
     "status": true,
-    "stock": 1,
-    "category": "Example-Category" 
+    "stock": 1,                                                                                                                                                                 
+    "category": "Example-Category"                                                                                                                                                         
   }
 
 2. Ruta Get - Obtención de la lista de productos generados (http://localhost:8080/api/products)
