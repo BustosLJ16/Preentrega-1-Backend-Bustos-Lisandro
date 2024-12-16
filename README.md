@@ -1,9 +1,8 @@
 # Preentrega #1 - Programación Backend I: Desarrollo Avanzado de Backend.
 
 ## Introducción:
-Este proyecto es una preentrega la cual fue realizada para el curso de Programación de BackEnd, desarrollo avanzado I de CoderHouse.
-En Mencionado proyecto, veremos las rutas utilizadas, las cuales fueron establecidas bajo el **Puerto 8080** de Localhost, utilizando el servicio de Postman como medio de preferencia de flujo de datos.
-
+Este es un proyecto fue realizado bajo la cursada de Programación Backend I: Desarrollo Avanzado de Backend en CoderHouse.
+En mencionado proyecto, se utiliza la ruta de Localhost para montar el proyecto, este bajo el puerto **8080**, junto al programa de Postman como el control de flujos de los datos.
 ## **Rutas de los Productos**:
 
 1. Ruta Post - Creación de un producto (http://localhost:8080/api/products)
