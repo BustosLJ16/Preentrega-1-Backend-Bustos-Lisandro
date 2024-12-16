@@ -1,6 +1,6 @@
-# Preentrega #1 - Programación BackEnd avanzado I.
+# Preentrega #1 - Programación Backend I: Desarrollo Avanzado de Backend.
 
-## Este proyecto es una preentrega la cual fue realizada para el curso de Programación de BackEnd avanzado I de CoderHouse.
+## Este proyecto es una preentrega la cual fue realizada para el curso de Programación de BackEnd, desarrollo avanzado I de CoderHouse.
 En dicho proyecto, veremos las rutas utilizadas, las cuales fueron establecidas bajo el **Puerto 8080** de Localhost, utilizando el servicio de Postman como medio de preferencia de flujo de datos.
 
 ## **Rutas de los Productos**:
