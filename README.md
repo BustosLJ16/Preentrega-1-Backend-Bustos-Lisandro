@@ -10,7 +10,7 @@ En mencionado proyecto, se utiliza la ruta de Localhost para montar el proyecto,
     {                                                                                                                                                                               
     "title": "Example-title",                                                                                                                                                              
     "description": "Example-Description",                                                                                                                                           
-   "code": "Example-code",                                                                                                                                                        
+    "code": "Example-code",                                                                                                                                                        
     "price": 1,                                                                                                                                                        
     "status": true,                                                                                                                                                        
     "stock": 1,                                                                                                                                                                 
